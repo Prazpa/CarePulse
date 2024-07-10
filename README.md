@@ -1,5 +1,6 @@
-I made this project for leaning NextJS only (https://www.youtube.com/watch?v=lEflo_sc82g&t=3562s)
-Thank for JavaScript Mastery for providing video for learning 
+Warning: This repository is for learning purposes only and should not be used for your portfolio.
+
+I created this project to learn NextJS, following the tutorial provided by JavaScript Mastery in this video. Thank you to JavaScript Mastery for the helpful content!
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
