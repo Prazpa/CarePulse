@@ -1,3 +1,6 @@
+I made this project for leaning NextJS only (https://www.youtube.com/watch?v=lEflo_sc82g&t=3562s)
+Thank for JavaScript Mastery for providing video for learning 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
